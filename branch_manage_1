@@ -1,0 +1,11 @@
+build new branch and switch to it：
+git checkout -b dev = git branch dev & git checkout dev
+
+look up branches :
+git branch
+
+merge to target branch to current one :
+git merge dev
+
+delete branch:
+git branch -d dev
