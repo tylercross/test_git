@@ -1,0 +1,18 @@
+add new branch :
+git checkout -b dev
+
+add "Sex" in "1.txt":
+then add and commit .
+
+Then switch to master and add "Six",
+
+>>git merge dev
+
+merge failed
+
+fix diffs in the file.
+
+now we can add and commit , then merge again;
+
+
+
